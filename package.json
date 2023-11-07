@@ -1,0 +1,4 @@
+"bin": {
+    "guess-the-number": "./guess-the-number.ts"
+  },
+  
